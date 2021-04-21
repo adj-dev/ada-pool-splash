@@ -1,6 +1,5 @@
 import ComingSoon from './components/ComingSoon'
 import styled from 'styled-components'
-import { FontSize3 } from './style'
 
 const Container = styled.div`
   display: flex;
