@@ -9,7 +9,7 @@ const Title = styled.div`
 
 const Subtitle = styled.div`
   font-size: 1.7rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   color: #fefefe8a;
   font-family: 'Montserrat', sans-serif;
 `
